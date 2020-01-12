@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="236301cb-8849-407e-919c-9387c788e514" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1W2bTJFFPG6IcT3THzQTJCzMKI4" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.problem11">
+    <configuration name="problem10" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="CS_M146" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PS0" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PS0/problem10.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="problem11" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="CS_M146" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PS0" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PS0/problem11.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.problem11" />
+        <item itemvalue="Python.problem10" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="236301cb-8849-407e-919c-9387c788e514" name="Default Changelist" comment="" />
+      <created>1578350642764</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578350642764</updated>
+      <workItem from="1578350643953" duration="614000" />
+      <workItem from="1578631265255" duration="3230000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2687" y="370" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1578631672375">
+      <screen x="1920" y="0" width="2560" height="1440" />
+    </state>
+    <state x="2687" y="370" key="#com.intellij.execution.impl.EditConfigurationsDialog/67.586.1853.1046/1920.0.2560.1440@1920.0.2560.1440" timestamp="1578631672375" />
+    <state width="2437" height="247" key="GridCell.Tab.0.bottom" timestamp="1578633757244">
+      <screen x="1920" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2437" height="247" key="GridCell.Tab.0.bottom/67.586.1853.1046/1920.0.2560.1440@1920.0.2560.1440" timestamp="1578633757244" />
+    <state width="2437" height="247" key="GridCell.Tab.0.center" timestamp="1578633757244">
+      <screen x="1920" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2437" height="247" key="GridCell.Tab.0.center/67.586.1853.1046/1920.0.2560.1440@1920.0.2560.1440" timestamp="1578633757244" />
+    <state width="2437" height="247" key="GridCell.Tab.0.left" timestamp="1578633757244">
+      <screen x="1920" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2437" height="247" key="GridCell.Tab.0.left/67.586.1853.1046/1920.0.2560.1440@1920.0.2560.1440" timestamp="1578633757244" />
+    <state width="2437" height="247" key="GridCell.Tab.0.right" timestamp="1578633757244">
+      <screen x="1920" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2437" height="247" key="GridCell.Tab.0.right/67.586.1853.1046/1920.0.2560.1440@1920.0.2560.1440" timestamp="1578633757244" />
+    <state x="2304" y="128" key="SettingsEditor" timestamp="1578631539134">
+      <screen x="1920" y="0" width="2560" height="1440" />
+    </state>
+    <state x="345" y="127" key="SettingsEditor/67.34.1853.1046@67.34.1853.1046" timestamp="1578351672137" />
+    <state x="2304" y="128" key="SettingsEditor/67.586.1853.1046/1920.0.2560.1440@1920.0.2560.1440" timestamp="1578631539134" />
+    <state x="800" y="875" key="com.intellij.ide.util.TipDialog" timestamp="1578631270957">
+      <screen x="67" y="586" width="1853" height="1046" />
+    </state>
+    <state x="800" y="875" key="com.intellij.ide.util.TipDialog/67.586.1853.1046/1920.0.2560.1440@67.586.1853.1046" timestamp="1578631270957" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/CS_M146$problem11.coverage" NAME="problem11 Coverage Results" MODIFIED="1578633757223" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PS0" />
+    <SUITE FILE_PATH="coverage/CS_M146$problem10.coverage" NAME="problem10 Coverage Results" MODIFIED="1578633442523" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PS0" />
+  </component>
+</project>
