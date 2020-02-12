@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="236301cb-8849-407e-919c-9387c788e514" name="Default Changelist" comment="" />
+    <list default="true" id="236301cb-8849-407e-919c-9387c788e514" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +17,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1W2bTJFFPG6IcT3THzQTJCzMKI4" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -22,10 +29,17 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ECE_C147" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.problem11">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/PS1" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.regression">
     <configuration name="problem10" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CS_M146" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -70,8 +84,77 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="q3_code" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="CS_M146" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PS2/code" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PS2/code/q3_code.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="regression" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="CS_M146" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PS2/code/src" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PS2/code/src/regression.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="titanic" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="CS_M146" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PS1/src" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PS1/src/titanic.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.regression" />
+        <item itemvalue="Python.q3_code" />
+        <item itemvalue="Python.titanic" />
         <item itemvalue="Python.problem11" />
         <item itemvalue="Python.problem10" />
       </list>
@@ -100,7 +183,10 @@
       <option name="presentableId" value="Default" />
       <updated>1578350642764</updated>
       <workItem from="1578350643953" duration="614000" />
-      <workItem from="1578631265255" duration="3230000" />
+      <workItem from="1578631265255" duration="17538000" />
+      <workItem from="1580339162168" duration="16080000" />
+      <workItem from="1580756149679" duration="3259000" />
+      <workItem from="1580947420863" duration="13000" />
     </task>
     <servers />
   </component>
@@ -112,34 +198,92 @@
       <screen x="1920" y="0" width="2560" height="1440" />
     </state>
     <state x="2687" y="370" key="#com.intellij.execution.impl.EditConfigurationsDialog/67.586.1853.1046/1920.0.2560.1440@1920.0.2560.1440" timestamp="1578631672375" />
-    <state width="2437" height="247" key="GridCell.Tab.0.bottom" timestamp="1578633757244">
+    <state x="2932" y="354" key="#xdebugger.evaluate" timestamp="1579207534219">
       <screen x="1920" y="0" width="2560" height="1440" />
     </state>
-    <state width="2437" height="247" key="GridCell.Tab.0.bottom/67.586.1853.1046/1920.0.2560.1440@1920.0.2560.1440" timestamp="1578633757244" />
-    <state width="2437" height="247" key="GridCell.Tab.0.center" timestamp="1578633757244">
+    <state x="2932" y="354" key="#xdebugger.evaluate/67.586.1853.1046/1920.0.2560.1440@1920.0.2560.1440" timestamp="1579207534219" />
+    <state x="772" y="603" width="446" height="477" key="FileChooserDialogImpl" timestamp="1580947431437">
+      <screen x="0" y="552" width="1920" height="1080" />
+    </state>
+    <state x="772" y="603" width="446" height="477" key="FileChooserDialogImpl/0.552.1920.1080/1920.0.2560.1440@0.552.1920.1080" timestamp="1580947431437" />
+    <state x="2693" y="466" width="558" height="636" key="FileChooserDialogImpl/67.586.1853.1046/1920.0.2560.1440@1920.0.2560.1440" timestamp="1580870086281" />
+    <state width="2437" height="271" key="GridCell.Tab.0.bottom" timestamp="1580870088153">
       <screen x="1920" y="0" width="2560" height="1440" />
     </state>
-    <state width="2437" height="247" key="GridCell.Tab.0.center/67.586.1853.1046/1920.0.2560.1440@1920.0.2560.1440" timestamp="1578633757244" />
-    <state width="2437" height="247" key="GridCell.Tab.0.left" timestamp="1578633757244">
+    <state width="1797" height="441" key="GridCell.Tab.0.bottom/0.552.1920.1080/1920.0.2560.1440@0.552.1920.1080" timestamp="1580347656427" />
+    <state width="2437" height="271" key="GridCell.Tab.0.bottom/67.586.1853.1046/1920.0.2560.1440@1920.0.2560.1440" timestamp="1580870088153" />
+    <state width="1797" height="385" key="GridCell.Tab.0.bottom/67.586.1853.1046/1920.0.2560.1440@67.586.1853.1046" timestamp="1580759596994" />
+    <state width="2437" height="271" key="GridCell.Tab.0.center" timestamp="1580870088153">
       <screen x="1920" y="0" width="2560" height="1440" />
     </state>
-    <state width="2437" height="247" key="GridCell.Tab.0.left/67.586.1853.1046/1920.0.2560.1440@1920.0.2560.1440" timestamp="1578633757244" />
-    <state width="2437" height="247" key="GridCell.Tab.0.right" timestamp="1578633757244">
+    <state width="1797" height="441" key="GridCell.Tab.0.center/0.552.1920.1080/1920.0.2560.1440@0.552.1920.1080" timestamp="1580347656426" />
+    <state width="2437" height="271" key="GridCell.Tab.0.center/67.586.1853.1046/1920.0.2560.1440@1920.0.2560.1440" timestamp="1580870088153" />
+    <state width="1797" height="385" key="GridCell.Tab.0.center/67.586.1853.1046/1920.0.2560.1440@67.586.1853.1046" timestamp="1580759596993" />
+    <state width="2437" height="271" key="GridCell.Tab.0.left" timestamp="1580870088153">
       <screen x="1920" y="0" width="2560" height="1440" />
     </state>
-    <state width="2437" height="247" key="GridCell.Tab.0.right/67.586.1853.1046/1920.0.2560.1440@1920.0.2560.1440" timestamp="1578633757244" />
-    <state x="2304" y="128" key="SettingsEditor" timestamp="1578631539134">
+    <state width="1797" height="441" key="GridCell.Tab.0.left/0.552.1920.1080/1920.0.2560.1440@0.552.1920.1080" timestamp="1580347656426" />
+    <state width="2437" height="271" key="GridCell.Tab.0.left/67.586.1853.1046/1920.0.2560.1440@1920.0.2560.1440" timestamp="1580870088153" />
+    <state width="1797" height="385" key="GridCell.Tab.0.left/67.586.1853.1046/1920.0.2560.1440@67.586.1853.1046" timestamp="1580759596993" />
+    <state width="2437" height="271" key="GridCell.Tab.0.right" timestamp="1580870088153">
       <screen x="1920" y="0" width="2560" height="1440" />
     </state>
+    <state width="1797" height="441" key="GridCell.Tab.0.right/0.552.1920.1080/1920.0.2560.1440@0.552.1920.1080" timestamp="1580347656427" />
+    <state width="2437" height="271" key="GridCell.Tab.0.right/67.586.1853.1046/1920.0.2560.1440@1920.0.2560.1440" timestamp="1580870088153" />
+    <state width="1797" height="385" key="GridCell.Tab.0.right/67.586.1853.1046/1920.0.2560.1440@67.586.1853.1046" timestamp="1580759596993" />
+    <state width="2437" height="484" key="GridCell.Tab.1.bottom" timestamp="1579542889318">
+      <screen x="1920" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2437" height="484" key="GridCell.Tab.1.bottom/67.586.1853.1046/1920.0.2560.1440@1920.0.2560.1440" timestamp="1579542889318" />
+    <state width="2437" height="484" key="GridCell.Tab.1.center" timestamp="1579542889318">
+      <screen x="1920" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2437" height="484" key="GridCell.Tab.1.center/67.586.1853.1046/1920.0.2560.1440@1920.0.2560.1440" timestamp="1579542889318" />
+    <state width="2437" height="484" key="GridCell.Tab.1.left" timestamp="1579542889318">
+      <screen x="1920" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2437" height="484" key="GridCell.Tab.1.left/67.586.1853.1046/1920.0.2560.1440@1920.0.2560.1440" timestamp="1579542889318" />
+    <state width="2437" height="484" key="GridCell.Tab.1.right" timestamp="1579542889318">
+      <screen x="1920" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2437" height="484" key="GridCell.Tab.1.right/67.586.1853.1046/1920.0.2560.1440@1920.0.2560.1440" timestamp="1579542889318" />
+    <state x="288" y="175" key="SettingsEditor" timestamp="1580339482761">
+      <screen x="0" y="552" width="1920" height="1080" />
+    </state>
+    <state x="288" y="175" key="SettingsEditor/0.552.1920.1080/1920.0.2560.1440@0.552.1920.1080" timestamp="1580339482761" />
     <state x="345" y="127" key="SettingsEditor/67.34.1853.1046@67.34.1853.1046" timestamp="1578351672137" />
-    <state x="2304" y="128" key="SettingsEditor/67.586.1853.1046/1920.0.2560.1440@1920.0.2560.1440" timestamp="1578631539134" />
-    <state x="800" y="875" key="com.intellij.ide.util.TipDialog" timestamp="1578631270957">
-      <screen x="67" y="586" width="1853" height="1046" />
+    <state x="2304" y="128" key="SettingsEditor/67.586.1853.1046/1920.0.2560.1440@1920.0.2560.1440" timestamp="1579542811673" />
+    <state x="2933" y="398" key="com.intellij.ide.util.TipDialog" timestamp="1580757922555">
+      <screen x="1920" y="0" width="2560" height="1440" />
     </state>
+    <state x="2933" y="398" key="com.intellij.ide.util.TipDialog/67.586.1853.1046/1920.0.2560.1440@1920.0.2560.1440" timestamp="1580757922555" />
     <state x="800" y="875" key="com.intellij.ide.util.TipDialog/67.586.1853.1046/1920.0.2560.1440@67.586.1853.1046" timestamp="1578631270957" />
+    <state x="572" y="256" width="840" height="1034" key="search.everywhere.popup" timestamp="1580348035330">
+      <screen x="0" y="552" width="1920" height="1080" />
+    </state>
+    <state x="572" y="256" width="840" height="1034" key="search.everywhere.popup/0.552.1920.1080/1920.0.2560.1440@0.552.1920.1080" timestamp="1580348035330" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/PS1/src/titanic.py</url>
+          <line>229</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/PS1/src/titanic.py</url>
+          <line>233</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/CS_M146$regression.coverage" NAME="regression Coverage Results" MODIFIED="1580759967321" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PS2/code/src" />
+    <SUITE FILE_PATH="coverage/CS_M146$q3_code.coverage" NAME="q3_code Coverage Results" MODIFIED="1580343249253" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PS2/code" />
     <SUITE FILE_PATH="coverage/CS_M146$problem11.coverage" NAME="problem11 Coverage Results" MODIFIED="1578633757223" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PS0" />
+    <SUITE FILE_PATH="coverage/CS_M146$titanic.coverage" NAME="titanic Coverage Results" MODIFIED="1580339584993" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PS1/src" />
     <SUITE FILE_PATH="coverage/CS_M146$problem10.coverage" NAME="problem10 Coverage Results" MODIFIED="1578633442523" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PS0" />
   </component>
 </project>
